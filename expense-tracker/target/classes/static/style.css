@@ -1,0 +1,5 @@
+body { font-family: sans-serif; max-width: 800px; margin: 20px auto; padding: 0 10px; }
+section { margin-bottom: 25px; }
+input, select, button { padding: 5px; margin: 2px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border-bottom: 1px solid #ccc; padding: 6px; text-align: left; }
